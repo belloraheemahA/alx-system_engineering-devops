@@ -1,2 +1,2 @@
 #!/bin/bash
-ls grp -un
+ls -ug 
